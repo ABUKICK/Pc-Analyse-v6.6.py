@@ -1,5 +1,5 @@
 """
-PC-Analyse-Tool v6.5 (Automatische Spracherkennung DE/EN)
+PC-Analyse-Tool v6.6 (Automatische Spracherkennung DE/EN)
 Zeigt auf einen Blick, wo ein Windows-PC ausgebremst wird:
 Speicherplatz      - Freier Speicher, Laufwerkstyp und verfügbare Windows-Laufwerksdaten
 Autostart          - Programme, die beim Anmelden starten, inkl. Prüfung auf fehlende Dateien
