@@ -10,11 +10,11 @@ Analyzing disk space was never so simple a super lightweight, fast, secure deskt
 
 # Important Disclaimer & Safety Information
 
-> Experimental software – use at your own risk!
+> Experimental software use at your own risk!
 
 >
 
-> This tool is for only analysis, review and visualization of system/storage data. It does not do any automated write, delete, or system changes.
+> This toool is for only analysis, review and visualization of system/storage data. It does not do any automated write, delete, or system changes.
 > * Personal Responsibility: You are fully responsible for anything you delete on your PC.
 > Never Delete System Files: Explorer shortcuts provide access to directories. Never delete any files or folders in the protected system directories (eg C:\Windows, Program Files, pagefile.sys, registry keys etc) unless you're positive of what you're doing.
 > * Scent areas are clearly marked with warning signs ( / ).
