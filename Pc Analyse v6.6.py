@@ -2,8 +2,8 @@
 PC Analysis Tool v6.6 (Automatic Language Detection: German/English)
 Shows at a glance what’s slowing down a Windows PC:
 Storage Space      - Free space, drive type, and available Windows drive data
-Startup          - Programs that start at login, including a check for missing files
-Largest Folders      - Folders, files, and file types sorted by space usage, with date and age
+Startup            - Programs that start at login, including a check for missing files
+Largest Folders    - Folders, files, and file types sorted by space usage, with date and age
 
 The tool does not make any changes to the system. It only reads and displays information.
 Runs without additional packages (only the standard Python library).
